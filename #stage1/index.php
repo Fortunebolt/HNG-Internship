@@ -24,6 +24,7 @@
             border: 0px solid transparent;
             border-radius: 5px;
             padding: 26px 32px;
+            width: 267px;
         }
 
         .title {
@@ -39,6 +40,10 @@
             color: rgba(0, 0, 0, 0.54);
             margin: 0px;
             padding: 0px;
+        }
+
+        p{
+            text-align: justify;
         }
     </style>
 </head>

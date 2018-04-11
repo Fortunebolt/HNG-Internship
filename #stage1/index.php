@@ -56,7 +56,7 @@
         <p class="title">Unless you wanted to know the current time?</p>
         <p class="answer">It's
             <span>
-                <?php echo date("h:i A") ?>.
+                <?php date_default_timezone_set("Africa/Accra"); echo date("h:i A") ?>.
             </span>
         </p>
     </div>
